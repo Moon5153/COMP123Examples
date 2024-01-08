@@ -1,0 +1,16 @@
+C:\Users\Moon\source\repos\COMP123Examples\COMP123Examples\bin\Debug\net5.0\COMP123Examples.exe
+C:\Users\Moon\source\repos\COMP123Examples\COMP123Examples\bin\Debug\net5.0\COMP123Examples.deps.json
+C:\Users\Moon\source\repos\COMP123Examples\COMP123Examples\bin\Debug\net5.0\COMP123Examples.runtimeconfig.json
+C:\Users\Moon\source\repos\COMP123Examples\COMP123Examples\bin\Debug\net5.0\COMP123Examples.runtimeconfig.dev.json
+C:\Users\Moon\source\repos\COMP123Examples\COMP123Examples\bin\Debug\net5.0\COMP123Examples.dll
+C:\Users\Moon\source\repos\COMP123Examples\COMP123Examples\bin\Debug\net5.0\ref\COMP123Examples.dll
+C:\Users\Moon\source\repos\COMP123Examples\COMP123Examples\bin\Debug\net5.0\COMP123Examples.pdb
+C:\Users\Moon\source\repos\COMP123Examples\COMP123Examples\obj\Debug\net5.0\COMP123Examples.csprojAssemblyReference.cache
+C:\Users\Moon\source\repos\COMP123Examples\COMP123Examples\obj\Debug\net5.0\COMP123Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moon\source\repos\COMP123Examples\COMP123Examples\obj\Debug\net5.0\COMP123Examples.AssemblyInfoInputs.cache
+C:\Users\Moon\source\repos\COMP123Examples\COMP123Examples\obj\Debug\net5.0\COMP123Examples.AssemblyInfo.cs
+C:\Users\Moon\source\repos\COMP123Examples\COMP123Examples\obj\Debug\net5.0\COMP123Examples.csproj.CoreCompileInputs.cache
+C:\Users\Moon\source\repos\COMP123Examples\COMP123Examples\obj\Debug\net5.0\COMP123Examples.dll
+C:\Users\Moon\source\repos\COMP123Examples\COMP123Examples\obj\Debug\net5.0\ref\COMP123Examples.dll
+C:\Users\Moon\source\repos\COMP123Examples\COMP123Examples\obj\Debug\net5.0\COMP123Examples.pdb
+C:\Users\Moon\source\repos\COMP123Examples\COMP123Examples\obj\Debug\net5.0\COMP123Examples.genruntimeconfig.cache
